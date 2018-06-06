@@ -1,31 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-	<dict>
+<dict>
 	<key>items</key>
-		<array>
-			<dict>
-				<key>assets</key>
-				<array>
-					<dict>
-						<key>kind</key>
-						<string>software-package</string>
-						<key>url</key>
-						<string>https://www.829mm.com/88ttcp.ipa</string>
-					</dict>
-				</array>
-				<key>metadata</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
 				<dict>
-					<key>bundle-identifier</key>
-					<string>xmds_tt_dis:BroadenGate e-commerce Technology Co., Ltd</string>
-					<key>bundle-version</key>
-					<string>2.0.9</string>
 					<key>kind</key>
-					<string>software</string>
-					<key>title</key>
-					<string>天天彩票</string>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://www.829mm.com/88ttcp.ipa</string>
 				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://www.829mm.com/Icon@2x.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://www.829mm.com/Icon.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>title</key>
+				<string>天天彩票</string>
+				<key>bundle-version</key>
+				<string>1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>bundle-identifier</key>
+				<string>com.kdc.kdcapp2</string>
 			</dict>
-		</array>
-	</dict>
+		</dict>
+	</array>
+</dict>
 </plist>
